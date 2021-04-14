@@ -11,10 +11,4 @@ endif()
 
 add_subdirectory(NVIDIA.PhysX.Native)
 
-add_subdirectory(NVIDIA.PhysX)
-
-add_subdirectory(NVIDIA.PhysX.Unity)
-
-add_subdirectory(NVIDIA.PhysX.UnityEditor)
-
 
