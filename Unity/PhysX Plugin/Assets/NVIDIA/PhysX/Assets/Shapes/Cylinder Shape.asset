@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c76163efe6201146ba0040b929c5c45, type: 3}
+  m_Name: Cylinder Shape
+  m_EditorClassIdentifier: 
+  m_forceRecreate: 0
+  m_position: {x: 0, y: 0, z: 0}
+  m_rotation: {x: 0, y: 0, z: 0}
+  m_materials:
+  - {fileID: 11400000, guid: 293973dcf839ede4b86e5b482fee7336, type: 2}
+  m_simulationShape: 1
+  m_sceneQueryShape: 1
+  m_collisionLayer: 0
+  m_solveCollision: 1
+  m_density: 1000
+  m_convexMesh: {fileID: 11400000, guid: 9e6998d0427addd4c9121a9ce264a665, type: 2}
+  m_scale: {x: 1, y: 1, z: 1}
+  m_scaleRotation: {x: 0, y: 0, z: 0}

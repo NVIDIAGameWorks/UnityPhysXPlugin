@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9e874da68445ae4ea72067eed24a49e, type: 3}
+  m_Name: Ant_Leg2C_Shape
+  m_EditorClassIdentifier: 
+  m_forceRecreate: 0
+  m_shapes:
+  - {fileID: 11400000, guid: d41a010bd5e53074fae76ac8f9be48c7, type: 2}
+  - {fileID: 11400000, guid: 67f44284c27216c42a313cc54985741f, type: 2}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 731bd133e49b3bc4faadc2a17e1789d0, type: 3}
+  m_Name: SplashShape
+  m_EditorClassIdentifier: 
+  m_forceRecreate: 0
+  m_position: {x: 0, y: 0, z: 0}
+  m_rotation: {x: 0, y: 0, z: 0}
+  m_materials:
+  - {fileID: 11400000, guid: 293973dcf839ede4b86e5b482fee7336, type: 2}
+  m_simulationShape: 1
+  m_sceneQueryShape: 1
+  m_collisionLayer: 0
+  m_solveCollision: 1
+  m_heightField: {fileID: 11400000, guid: 1f6d500d0b404744ea3dc2e35e96935d, type: 2}
+  m_heightScale: 10
+  m_rowScale: 200
+  m_columnScale: 200
+  m_doubleSided: 0
