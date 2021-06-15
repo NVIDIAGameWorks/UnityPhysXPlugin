@@ -153,7 +153,7 @@ public class SampleHeightField : SampleBase
         m_terrainObject.transform.parent = transform;
         m_terrainObject.transform.position = new Vector3(-SIZE * 0.5f, 0, -SIZE * 0.5f);
         var terrain = m_terrainObject.AddComponent<Terrain>();
-        terrain.materialType = Terrain.MaterialType.Custom;
+        //terrain.materialType = Terrain.MaterialType.Custom;
         terrain.materialTemplate = m_groundMaterial;
         terrain.terrainData = new TerrainData();
         terrain.terrainData.heightmapResolution = RESOLUTION;

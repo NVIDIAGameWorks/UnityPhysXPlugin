@@ -11,7 +11,7 @@
 namespace NVIDIA.PhysX {
 
 public enum PxVersion {
-  PX_PHYSICS_VERSION = ((4 << 24) +(1 << 16) +(1 << 8) +0)
+  PX_PHYSICS_VERSION = ((4 << 24) +(1 << 16) +(2 << 8) +0)
 }
 
 }

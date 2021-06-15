@@ -932,7 +932,7 @@ SWIGEXPORT int SWIGSTDCALL CSharp_NVIDIAfPhysX_PX_PHYSICS_VERSION_BUGFIX_get___(
   int jresult ;
   int result;
   
-  result = (int)(1);
+  result = (int)(2);
   jresult = result; 
   return jresult;
 }
@@ -942,7 +942,7 @@ SWIGEXPORT int SWIGSTDCALL CSharp_NVIDIAfPhysX_PX_PHYSICS_VERSION_get___() {
   int jresult ;
   int result;
   
-  result = (int)(((4 << 24) +(1 << 16) +(1 << 8) +0));
+  result = (int)(((4 << 24) +(1 << 16) +(2 << 8) +0));
   jresult = result; 
   return jresult;
 }

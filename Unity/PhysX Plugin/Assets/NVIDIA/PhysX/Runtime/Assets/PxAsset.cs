@@ -116,6 +116,8 @@ namespace NVIDIA.PhysX.Unity
             try { new PxTolerancesScale().destroy(); }
             catch { return; }
 
+            if (PxPhysics.settings == null) return;
+
             m_dependencies = GetDependencies();
             foreach (var dependency in m_dependencies)
             {
